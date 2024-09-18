@@ -1,6 +1,6 @@
 - Hi, I’m @rusagara-ops
-- I’m interested in: solving problems and building stuff
-- I’m currently learning: Computer Science
+- I’m interested in: solving problems and building stuff for the web
+- I’m currently learning: Computer Science specifically Data Structures and Algorithms at Yale University
 - How to reach me: kevin.rusagara@yale.edu
 - Pronouns: He/Him
 - Fun fact: I have a twin sister
